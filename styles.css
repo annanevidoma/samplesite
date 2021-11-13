@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+}
+#big-header {
+    font-size: 8rem;
+    font-family: 'Ubuntu', sans-serif;
+   
+}
+.big-image {
+    font-size: 8rem;
+    text-align: center;
+    background-image: url("nature2.jpg");
+    padding: 1.4em; 
+    /* background-position: 50% 50%; */
+    margin: 0.1em 0.2em;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    border-radius: 0.5ch;
+    position: relative;
+}
+
+#more-btn {
+    font-size: 2rem;
+    background-color: white;
+    text-align: center;
+    border-radius: 2ch;
+    padding: 0.5em;
+}
