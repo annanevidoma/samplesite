@@ -27,3 +27,9 @@
     border-radius: 2ch;
     padding: 0.5em;
 }
+
+@media (max-width: 599px) {
+    #big-header {
+        font-size: 6rem;
+    }
+}
